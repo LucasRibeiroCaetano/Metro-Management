@@ -9,6 +9,7 @@ This program is a practical assignment for a Programming Course in C. It impleme
 - **Display Stations:** Displays all metro stations currently in the system.
 - **Find Station:** Allows users to search for a specific metro station.
 - **Update Station:** Allows users to update information about a specific metro station.
+- **Find best route to Stop:** Allows users to find the best route to a specific stop.
 
 ## Usage
 
